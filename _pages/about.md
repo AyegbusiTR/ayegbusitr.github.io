@@ -38,5 +38,5 @@ In the news
 ======
 [Why I teach Mathematics in Yoruba?](https://dailyinsiderng.com/how-i-demystify-maths-with-yoruba-iseyin-born-scholar-revolutionizes-maths-education/)
 
-[Urgent need to decentralise certificate authentication in Nigeria](https://trustradio.com.ng/#gsc.tab=0) [Also on Daily trust](https://dailytrust.com/urgent-need-to-decentralise-certificate-authentication/)
+
 
