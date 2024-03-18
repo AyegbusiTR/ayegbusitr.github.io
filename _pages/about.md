@@ -32,17 +32,6 @@ As an adjunct Lecturer in the Department of Peace and Security Studies, Ekiti St
 
 As Postgraduate Research Supervisor at the Management College of Southern Africa (MANCOSA), South Africa, I am responsible for supervising and guiding graduate students in their research endeavors. Provides support and feedback to students and facilitates their academic progress. Successfully supervised several students to completion of their research theses. Proudly affiliated with MANCOSA, a leading institution for management education in Africa.
 
-Upcoming event
-======
-I am giving a talk at SCI.
-![Last week, I gave a talk at SCI](/images/scitalk.PNG)
-
-Apply for 2024 Free JAMB/UTME Mathematics tutorials.
-![Last week, I gave a talk at SCI](/images/jamb.jpg)
-
-In the news
-======
-[Why I teach Mathematics in Yoruba?](https://dailyinsiderng.com/how-i-demystify-maths-with-yoruba-iseyin-born-scholar-revolutionizes-maths-education/)
 
 
 
