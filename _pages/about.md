@@ -28,21 +28,9 @@ Student Engagement
 Data Analysis
 Academic Writing and Publishing. 
 
-My research investigates the spread of bias (notably myside bias/confirmation bias) and misinformation within groups. My goal is to identify ways to improve the spread of accurate information while concurrently reducing the dissemination of misinformation and interested in interventions at both the individual and group levels. 
+As an adjunct Lecturer in the Department of Peace and Security Studies, Ekiti State University Ado-Ekiti State, Nigeria, I specialize in teaching courses on "Advanced Information Technology, Cyber Crimes, and Global Security" and "Private Armies, Military, and National/Global Security". My role involves developing and delivering course content, as well as supervising students' progress throughout the academic year. In addition to teaching, I supervise master’s dissertations in the department, working closely with students to provide guidance and feedback on their research projects. Through my teaching and supervision, I strive to equip students with the knowledge and skills necessary to address complex security challenges in the modern world.
 
-In one line of my work, I found observers judge group members who are pessimistic about the group's future as less loyal to the organization relative to members who are optimistic. Inferences of disloyalty persist even when observers think that pessimism is more accurate, and when the individual aligns with the (pessimistic) majority  (Lukumon, G., Cusimano, C., & Strickland, B., in prep.). 
-
-In my other line of work, I investigated the impact of confirmation bias (myside bias) that may distort multiple steps of accumulating scientific knowledge (Lukumon, G; Picat, L; Chemla, E; & Strickland, B [under review] Cognitive Science). 
-
-In another line, I found misinformation could be reduced through "adversarial collaboration" among fact-checkers (Lukumon, G; Bryd N; & Strickland B, in prep.). 
-
-In [(Lukumon G; and Klein M, 2023)](https://link.springer.com/article/10.1007/s40622-023-00349-w), I examined types of information people are best at spotting (good vs. bad) and a technique meant to assist collective innovation called "crowd-based" idea filtering and the effect of token budget sizes. 
-
-Also, in the past, I researched ways to improve math education and to improve students’ and teachers’ attitudes towards math ([Lukumon, G., & Maharaj, A., 2022](https://www.tandfonline.com/doi/abs/10.1080/18117295.2022.2075173); [Maharaj, A; and Lukumon G., 2021](https://www.kansaiuniversityreports.com/article/commerce-students-ability-to-correctly-apply-integration-rules)). 
-
-Apart from my academic pursuits, I have demonstrated a capacity to effectively mentor and lead others. For instance, I am the founder of the [Hotspot International Scholars Forum](https://www.hotspotisf.com) (HISF, formerly International Scholarship Forum). I initiated this project to provide students with scholarship information and mentorship, all free of charge. At present, the initiative boasts nearly 5000 members in the WhatsApp groups, over 20,000 followers on [Twitter](https://twitter.com/forum_isf), and a [repository](https://drive.google.com/drive/u/0/folders/1UVI5yT-5JfMwyHHloxPwkuuPm08L_zBn) of over a thousand scholarship resources on the shared drive. 
-
-I also founded ["Math with Lukgaf"](https://www.youtube.com/@mathwithLukgaf) - an online free mathematics resources in Yoruba.  Recognizing the challenges that African students encounter in STEM, I embarked on demystifying mathematics and sciences in Yoruba — an indigenous language spoken by inhabitants of West African countries such as Nigeria, Benin Republic, Togo, and parts of Sierra Leone. Through this initiative, I have successfully produced more than 400 videos (see [here](https://www.youtube.com/@mathwithLukgaf) for some of my resources). They are available in some community libraries  and also Radio and TV stations featured them. This year, I was honored to receive the UKZN Inspiring Impact Award, recognizing my initiative as a social enterprise making a substantial impact in people's lives. Students consistently report that I am one of their best mentors and teachers.
+As Postgraduate Research Supervisor at the Management College of Southern Africa (MANCOSA), South Africa, I am responsible for supervising and guiding graduate students in their research endeavors. Provides support and feedback to students and facilitates their academic progress. Successfully supervised several students to completion of their research theses. Proudly affiliated with MANCOSA, a leading institution for management education in Africa.
 
 Upcoming event
 ======
