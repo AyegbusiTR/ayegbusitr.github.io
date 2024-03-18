@@ -82,38 +82,38 @@ analytics:
 author:
   name             : "Talabi Rasheed Ayegbusi"
   avatar           : "profile.png"
-  bio              : "I am a Lecturer and Researcher at Federal University Oye-Ekiti, Ekiti State Nigeria."
+  bio              : "I am a Lecturer and Researcher at the Federal University Oye-Ekiti, Ekiti State Nigeria."
   location         : "Nigeria"
-  employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/citations?user=qc6GkvgAAAAJ&hl=en"
-  email            : "lukumongafaria@gmail.com"
-  researchgate     : "https://www.researchgate.net/profile/Gafari-Lukumon"
+  employer         : "Federal University Oye-Ekiti, Ekiti State, Nigeria" 
+  pubmed           : 
+  googlescholar    : "https://scholar.google.com/citations?user=-nn99GMAAAAJ&hl=en"
+  email            : "ayegbusi76@gmail.com"
+  researchgate     : "https://www.researchgate.net/profile/Talabi_Ayegbusi"
   uri              :
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
-  facebook         : "https://facebook.com/lukgaf"
+  facebook         : "https://web.facebook.com/ayegbusi.rasheed"
   foursquare       :
-  github           : "lukgaf"
+  github           : "ayegbusitr"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
-  orcid            : "https://orcid.org/0000-0001-7195-0327"
+  linkedin         : "https://www.linkedin.com/in/talabi-rasheed-ayegbusi-45090612a/"  
+  orcid            : "https://orcid.org/0000-0003-2159-8171"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "lukgaf"
+  twitter          : "rkunlex"
   vine             :
   weibo            :
   xing             :
-  youtube          : "https://www.youtube.com/c/@mathwithLukgaf"
+  youtube          : 
   wikipedia        :
 
 
