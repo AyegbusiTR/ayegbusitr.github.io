@@ -21,12 +21,12 @@ Serve on departmental committees and participate in university-wide initiatives 
 
 Skills:
 
-Political science research
-Research supervision
-Curriculum development
-Student engagement
-Data analysis
-Academic writing and publishing. 
+Political Science Research,
+Research Supervision,
+Curriculum Development
+Student Engagement
+Data Analysis
+Academic Writing and Publishing. 
 
 My research investigates the spread of bias (notably myside bias/confirmation bias) and misinformation within groups. My goal is to identify ways to improve the spread of accurate information while concurrently reducing the dissemination of misinformation and interested in interventions at both the individual and group levels. 
 
