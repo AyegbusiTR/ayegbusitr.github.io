@@ -8,7 +8,25 @@ redirect_from:
   - /about.html
 ---
 
-I am a final year Cognitive Science Ph.D. student at the [School of Collective Intelligence](https://sci.um6p.ma/), University Mohammed VI Polytechnic, Morocco (UM6P), and Ecole Normale Supérieure, Paris (Cotutelle) under the mentorship of a great cognitive scientist, Professor [Brent Strickland](http://www.brentstrickland.net/) (IJN, ENS-PSL) and computer scientist, Professor [Mark Klein](https://deliberatorium.org/homepage/index.html) (MIT). I am currently in the process of defending my thesis. My background was in mathematics - I hold a Bachelor and Master degrees in mathematics from the [University of KwaZulu-Natal, South Africa](https://www.ukzn.ac.za) (UKZN) and [Ekiti State University](https://www.eksu.edu.ng), Nigeria, respectively, where I graduated with Distinctions. 
+As a teacher and researcher  at Federal University Oye-Ekiti, Ekiti State, Nigeria, I am responsible for instructing students in political science theories, concepts, and methodologies, as well as overseeing their research projects and dissertations. I also conduct research in the field of political science, with a focus on Peace Conflict and Security Studies, Political Psychology, and Computational Social Science, and publish articles in peer-reviewed journals.
+
+Responsibilities:
+
+Teach courses in political science, including Introduction to Comparative Politics, Contemporary Political Analysis, Nigeria Government and Politics II, and Politics in Africa.
+Develop and deliver lesson plans, lectures, and assignments that promote student engagement and understanding.
+Supervise undergraduate research projects, providing guidance on research design, data collection, and analysis.
+Conduct research in the field of political science, with a focus on Peace, Conflict, and Security Studies.
+Publish articles in peer-reviewed journals and present research findings at academic conferences.
+Serve on departmental committees and participate in university-wide initiatives to promote academic excellence and professional development.
+
+Skills:
+
+Political science research
+Research supervision
+Curriculum development
+Student engagement
+Data analysis
+Academic writing and publishing. 
 
 My research investigates the spread of bias (notably myside bias/confirmation bias) and misinformation within groups. My goal is to identify ways to improve the spread of accurate information while concurrently reducing the dissemination of misinformation and interested in interventions at both the individual and group levels. 
 
