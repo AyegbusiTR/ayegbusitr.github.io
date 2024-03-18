@@ -30,8 +30,6 @@ Academic Writing and Publishing.
 
 As an adjunct Lecturer in the Department of Peace and Security Studies, Ekiti State University Ado-Ekiti State, Nigeria, I specialize in teaching courses on "Advanced Information Technology, Cyber Crimes, and Global Security" and "Private Armies, Military, and National/Global Security". My role involves developing and delivering course content, as well as supervising students' progress throughout the academic year. In addition to teaching, I supervise master’s dissertations in the department, working closely with students to provide guidance and feedback on their research projects. Through my teaching and supervision, I strive to equip students with the knowledge and skills necessary to address complex security challenges in the modern world.
 
-As Postgraduate Research Supervisor at the Management College of Southern Africa (MANCOSA), South Africa, I am responsible for supervising and guiding graduate students in their research endeavors. Provides support and feedback to students and facilitates their academic progress. Successfully supervised several students to completion of their research theses. Proudly affiliated with MANCOSA, a leading institution for management education in Africa.
-
-
+As a Postgraduate Research Supervisor at the Management College of Southern Africa (MANCOSA), South Africa, I am responsible for supervising and guiding graduate students in their research endeavors. Provides support and feedback to students and facilitates their academic progress. Successfully supervised several students to completion of their research theses. Proudly affiliated with MANCOSA, a leading institution for management education in Africa.
 
 
