@@ -40,17 +40,7 @@ IN PRINT
 PEER-REVIEWED CONFERENCE PROCEEDINGS 
 ======
 
-13. Lukumon, G., Cusimano, C., & Strickland B (2023). Optimism and attribution of dis(loyalty) in Group. Proc. of the 2023 SJDM annual conference. [Link]
 
-14. Lukumon, G; Boon Falleur; & Strickland B. (2022). Expressive responding, myside bias and moral conviction. Proceedings of 2022 UM6P JDD Conference, UM6P. [Link]
-
-15. Lukumon, G; & Klein, M. (2021). Idea filtering with Bag of Lemons. Proceedings of 2021 UM6P JDD Conference, UM6P. [Link]
-
-16.  Lukumon, G., Shindin, S., & Parumasur N. (2019). On Lax Pairs analysis of the Sine-Gordon
-equation. Proc of CAES, UKZN Postgraduate Research and Innovation Symposium.  [Link]
-
-17.    Lukumon, G., Shindin, S., & Parumasur N. (2018). On the numerical Solution of the Klein-
-Gordon equation in an Unbounded Domain. Proc. of CAES, UKZN Postgraduate Research and Innovation Symposium. [Link]
 
 <!--
 {% if author.googlescholar %}
