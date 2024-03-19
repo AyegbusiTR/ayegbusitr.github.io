@@ -11,13 +11,15 @@ redirect_from:
 
 Education
 ======
-* B.Sc (Ed., Hons) in Mathematics, 2015 
-  * Ekiti State University, Ado-Ekiti, Nigeria.
-* M.Sc in Mathematics
-  * University of KwaZulu-Natal, South Africa
-* Ph.D in Cognitive Science (ongoing)
-  * University of Mohammed VI Polytechnic, Morocco.
-  * Ecole Normale Suprieure, Paris, France (Cotutelle).
+* Diploma in Local Government Studies, 2000
+  * Obafemi Awolowo University, Ile-Ife, Osun State, Nigeria.  
+* B.Sc (Ed., Hons) in Political Science, 2006 
+  * Adekunle Ajasin University, Akungba-Akoko, Ondo State, Nigeria.
+* M.Sc in Political Science, 2014
+  * Ekiti State University, Ado-Ekiti, Ekiti State, Nigeria.
+* Ph.D in Political Science, 2019
+  * University of KwaZulu-Natal, South Africa.
+  
 
 Work experience
 ======
