@@ -25,21 +25,16 @@ WORKING PAPERS
 CHAPTERS IN EDITED BOOKS
 ======
 
-Aleyomi, M.B. and Ayegbusi, T.R. (2023). Approaches to the study of Political Science. In Omotola, et al. (eds.), Introduction to Political Science: A Reading Text on Politics and Governance (pg20 – 30). Department of Political science FUOYE.
+7. Aleyomi, M.B. and Ayegbusi, T.R. (2023). Approaches to the study of Political Science. In Omotola, et al. (eds.), Introduction to Political Science: A Reading Text on Politics and Governance (pg20 – 30). Department of Political science FUOYE.
 
-6.  Anlló, H., Bavard, S., Benmarrakchi, F., Bonagura, D., Cerrotti, F., Cicue, M., …, Lukumon G., ... & Palminteri, S. (2023). Outcome context-dependence is not WEIRD: Comparing reinforcement-and description-based economic preferences worldwide. Research Square. [Link]
+8. Ayegbusi, T.R. 2017. Nigeria Colonial Experience: Historicizing the Anti-Colonial Struggles of Labour Movement. In Rukema, J.R. (eds.), Inside the Mind of the Oppressed: A reflection on the lived experience of Colonialism and Apartheid in Africa (pg67-99). Goma: Sub-Saharan Africa University Press.
 
-7.  Lukumon, G., & Maharaj, A. (2022). Students’ Experiences on the Remote Teaching and Learning of Linear Algebra During COVID-19. African Journal of Research in Mathematics, Science and Technology Education, 26(1), 35-46. [Link]
+9. Ayegbusi, T.R. and Ola, A.A. 2017. Party cross carpeting, defection and reversed defection: The politics and Implications for 2019 General Elections and future of Democracy in Nigeria. In Rukema, J.R. (eds.) Elections and Governance in Africa (pg1-23). Goma: Sub-Saharan Africa University Press.
 
-8.  Shindin, S., Parumasur, N., & Lukumon, G. (2022). Numerical analysis of Fourier pseudospectral methods for the Klein–Gordon equation with smooth potentials: Fourier pseudospectral methods for Klein–Gordon equation. Afrika Matematika, 33(3), 85. [Link]
+IN PRINT
 
-9.  Maharaj, A., & Lukumon, G. (2021). Commerce students’ ability to correctly apply integration rules. Technology Report of Kansai University, 63(2), 7083–7105. [Link]
+10. Ayegbusi, T. R. (2024). Kidnapping by bandits in Nigeria. In Omotola, J.S. and Oyewole, S. (eds.), The Political Economy of Kidnapping and Insecurity in Nigeria. [Link](https://link.springer.com/book/9783031471674)
 
-10. Jolaoso, L. O., Lukumon, G. A., & Aphane, M. (2021). Convergence theorem for system of pseudomonotone equilibrium and split common fixed point problems in Hilbert spaces. Bollettino dell'Unione Matematica Italiana, 14, 403-428. [Link]
-
-11. Lukumon, G. A. (2018). Numerical solution of the Klein-Gordon equation in an unbounded domain (Masters dissertation). [Link]
-
-12. Lukumon, G., & Ayegbusi R. Myside bias and militarization of election. (in preparation).
 
 
 PEER-REVIEWED CONFERENCE PROCEEDINGS 
