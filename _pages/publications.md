@@ -4,10 +4,14 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-JOURNAL PUBLICATIONS (from Ph.D. projects)
+JOURNAL PUBLICATIONS
 ======
 
-1.  Lukumon, G., & Klein, M. (2023). Crowd-sourced idea filtering with Bag of Lemons: the impact of the token budget size. Decision, 50(2), 205-219. [Link]
+1.  Mustapha, A. H., Oluwatukasi, E. B., & Ayegbusi, T. R. (2024). 2023 Nigeria’s (Presidential) Election: Domestic Impacts and Foreign Policy Implication for Consolidation. EBSU Journal of Social Sciences and Humanities, 14(1). [Link](https://www.ebsu-jssh.com/index.php/EBSUJSSH/article/view/140)
+
+Ayegbusi, T.R. and Rukema, J.R. 2021. Labor Unions and the Nigerian Democratic Experience: An Appraisal. Mankind Quarterly 61 (4), 872-900. [Link](http://doi.org/10.46469/mq.2021.61.4.5)
+
+Ayegbusi, T.R. and Rukema, J.R. 2019. The Politics of Emergency Rule in North-Eastern Nigeria (2013-2014). African Journal of Democracy and Governance (AJDG), 6(2&3), 107-124. [Link](https://hdl.handle.net/10520/EJC-1b5389174a)
 
 WORKING PAPERS (from Ph.D. projects, drafts available)
 ======
